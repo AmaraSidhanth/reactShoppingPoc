@@ -1,0 +1,14 @@
+.productList{
+    margin-top: 5%;
+}
+.title{
+    background: grey;
+}
+
+/* ViewProductComponent */
+.viewProductDiv{
+    margin-top: 7%;
+}
+.viewProductImage{
+    object-fit:contain;
+}
